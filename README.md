@@ -69,7 +69,7 @@ AIReadyKit scores across all three layers, delivers a diagnostic report, and giv
 
 I write about this daily:
 - [LinkedIn](https://linkedin.com/in/rafaelarmani)
-- [X / Twitter](https://x.com/_IAmRafaArmani)
+- [X / Twitter](https://x.com/IAmRafaArmani)
 - [AIReadyKit](https://aireadykit.io)
 - [AI Visibility Framework](https://aireadykit.io/how-it-works)
 - [AI Visibility Full Guide](https://aireadykit.io/ai-visibility)
